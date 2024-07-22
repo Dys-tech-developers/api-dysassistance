@@ -1,5 +1,7 @@
 # Entorno virtual
 env/
+#entorno virutal fran
+venv/
 
 # Archivos y directorios de configuraciones y caché
 *.log
